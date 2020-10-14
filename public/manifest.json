@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Tutorial",
+  "name": "React tutorial for Csci 435",
   "icons": [
     {
       "src": "favicon.ico",
